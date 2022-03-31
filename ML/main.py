@@ -7,7 +7,7 @@ from PIL import Image # This module is used to deal with images
 class Face_recognition_system: 
     def __init__(self,root):
         self.root = root
-        self.root.geometry("1280x800")
+        self.root.geometry("1280x800+0+0")
         self.root.title("Face Recogniton System")
 
 
