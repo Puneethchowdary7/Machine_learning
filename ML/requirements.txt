@@ -1,2 +1,26 @@
-tk == 0.1.0
-pillow == 9.0.1
+click == 8.1.1
+colour == 0.1.5
+cycler == 0.11.0
+joblib ==1.1.0
+kiwisolver==1.4.2
+fonttools ==4.31.2
+matplotlib==3.5.1
+mysql-connector-python ==8.0.28
+packaging==21.3
+Pillow ==9.0.1
+numpy ==1.22.3
+pip ==22.0.4
+protobuf==3.19.4
+pyparsing==3.0.7
+pypi-xmlrpc==2020.12.3
+python-dateutil==2.8.2
+scikit-learn==1.0.2
+scipy ==1.8.0
+setuptools ==57.4.0
+six ==1.16.0
+sklearn ==0.0
+threadpoolctl ==3.1.0
+tk ==0.1.0
+tkmacosx ==1.0.4
+wheel==0.37.0
+ 
