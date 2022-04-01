@@ -11,3 +11,4 @@ step 2: Goto ML Folder and checkout the requirements file
 step 3: install the requirements using command "pip install -r requirements.txt"
 step 4: After installation of requirements, T execute run this project use the command
           "python main.py" or "python3 main.py"
+          
