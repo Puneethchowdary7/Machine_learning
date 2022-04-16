@@ -9,7 +9,7 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import font
 from tokenize import String
-from turtle import bgcolor, update, width     # Used to create stylish widgets
+from turtle import bgcolor, color, update, width     # Used to create stylish widgets
 from PIL import Image, ImageTk  # Pillow is used to deal with images 
 from matplotlib import image
 from matplotlib.pyplot import fill, get, table, text
